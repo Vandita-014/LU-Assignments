@@ -1,4 +1,4 @@
-#Take multiple numbers as input and print sum of them
+#Take multiple numbers as input and print sum of them using python
 
 y = [int(i)for i in input('Enter different values: ').split()] 
 sum=0
